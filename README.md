@@ -4,5 +4,5 @@ Minimalistic tutorial to parallelize your code in R
 
 
 
-# GM
+GM
 
